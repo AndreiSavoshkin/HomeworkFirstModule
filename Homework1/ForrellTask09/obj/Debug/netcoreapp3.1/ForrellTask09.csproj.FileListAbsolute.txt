@@ -1,0 +1,12 @@
+D:\Программки на вижуал\Homework1\ForrellTask09\bin\Debug\netcoreapp3.1\ForrellTask09.exe
+D:\Программки на вижуал\Homework1\ForrellTask09\bin\Debug\netcoreapp3.1\ForrellTask09.deps.json
+D:\Программки на вижуал\Homework1\ForrellTask09\bin\Debug\netcoreapp3.1\ForrellTask09.runtimeconfig.json
+D:\Программки на вижуал\Homework1\ForrellTask09\bin\Debug\netcoreapp3.1\ForrellTask09.runtimeconfig.dev.json
+D:\Программки на вижуал\Homework1\ForrellTask09\bin\Debug\netcoreapp3.1\ForrellTask09.dll
+D:\Программки на вижуал\Homework1\ForrellTask09\bin\Debug\netcoreapp3.1\ForrellTask09.pdb
+D:\Программки на вижуал\Homework1\ForrellTask09\obj\Debug\netcoreapp3.1\ForrellTask09.AssemblyInfoInputs.cache
+D:\Программки на вижуал\Homework1\ForrellTask09\obj\Debug\netcoreapp3.1\ForrellTask09.AssemblyInfo.cs
+D:\Программки на вижуал\Homework1\ForrellTask09\obj\Debug\netcoreapp3.1\ForrellTask09.csproj.CoreCompileInputs.cache
+D:\Программки на вижуал\Homework1\ForrellTask09\obj\Debug\netcoreapp3.1\ForrellTask09.dll
+D:\Программки на вижуал\Homework1\ForrellTask09\obj\Debug\netcoreapp3.1\ForrellTask09.pdb
+D:\Программки на вижуал\Homework1\ForrellTask09\obj\Debug\netcoreapp3.1\ForrellTask09.genruntimeconfig.cache

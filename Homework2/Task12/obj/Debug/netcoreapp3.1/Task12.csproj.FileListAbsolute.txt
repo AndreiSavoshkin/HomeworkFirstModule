@@ -1,0 +1,12 @@
+D:\Программки на вижуал\Homework2\Task12\bin\Debug\netcoreapp3.1\Task12.exe
+D:\Программки на вижуал\Homework2\Task12\bin\Debug\netcoreapp3.1\Task12.deps.json
+D:\Программки на вижуал\Homework2\Task12\bin\Debug\netcoreapp3.1\Task12.runtimeconfig.json
+D:\Программки на вижуал\Homework2\Task12\bin\Debug\netcoreapp3.1\Task12.runtimeconfig.dev.json
+D:\Программки на вижуал\Homework2\Task12\bin\Debug\netcoreapp3.1\Task12.dll
+D:\Программки на вижуал\Homework2\Task12\bin\Debug\netcoreapp3.1\Task12.pdb
+D:\Программки на вижуал\Homework2\Task12\obj\Debug\netcoreapp3.1\Task12.AssemblyInfoInputs.cache
+D:\Программки на вижуал\Homework2\Task12\obj\Debug\netcoreapp3.1\Task12.AssemblyInfo.cs
+D:\Программки на вижуал\Homework2\Task12\obj\Debug\netcoreapp3.1\Task12.csproj.CoreCompileInputs.cache
+D:\Программки на вижуал\Homework2\Task12\obj\Debug\netcoreapp3.1\Task12.dll
+D:\Программки на вижуал\Homework2\Task12\obj\Debug\netcoreapp3.1\Task12.pdb
+D:\Программки на вижуал\Homework2\Task12\obj\Debug\netcoreapp3.1\Task12.genruntimeconfig.cache

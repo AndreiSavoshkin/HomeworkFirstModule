@@ -1,0 +1,12 @@
+D:\Программки на вижуал\Homework1\ForrelTask04\bin\Debug\netcoreapp3.1\ForrelTask04.exe
+D:\Программки на вижуал\Homework1\ForrelTask04\bin\Debug\netcoreapp3.1\ForrelTask04.deps.json
+D:\Программки на вижуал\Homework1\ForrelTask04\bin\Debug\netcoreapp3.1\ForrelTask04.runtimeconfig.json
+D:\Программки на вижуал\Homework1\ForrelTask04\bin\Debug\netcoreapp3.1\ForrelTask04.runtimeconfig.dev.json
+D:\Программки на вижуал\Homework1\ForrelTask04\bin\Debug\netcoreapp3.1\ForrelTask04.dll
+D:\Программки на вижуал\Homework1\ForrelTask04\bin\Debug\netcoreapp3.1\ForrelTask04.pdb
+D:\Программки на вижуал\Homework1\ForrelTask04\obj\Debug\netcoreapp3.1\ForrelTask04.AssemblyInfoInputs.cache
+D:\Программки на вижуал\Homework1\ForrelTask04\obj\Debug\netcoreapp3.1\ForrelTask04.AssemblyInfo.cs
+D:\Программки на вижуал\Homework1\ForrelTask04\obj\Debug\netcoreapp3.1\ForrelTask04.csproj.CoreCompileInputs.cache
+D:\Программки на вижуал\Homework1\ForrelTask04\obj\Debug\netcoreapp3.1\ForrelTask04.dll
+D:\Программки на вижуал\Homework1\ForrelTask04\obj\Debug\netcoreapp3.1\ForrelTask04.pdb
+D:\Программки на вижуал\Homework1\ForrelTask04\obj\Debug\netcoreapp3.1\ForrelTask04.genruntimeconfig.cache

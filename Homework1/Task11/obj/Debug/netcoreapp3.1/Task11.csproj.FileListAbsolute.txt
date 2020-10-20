@@ -1,0 +1,13 @@
+D:\Программки на вижуал\Homework1\Task11\bin\Debug\netcoreapp3.1\Task11.exe
+D:\Программки на вижуал\Homework1\Task11\bin\Debug\netcoreapp3.1\Task11.deps.json
+D:\Программки на вижуал\Homework1\Task11\bin\Debug\netcoreapp3.1\Task11.runtimeconfig.json
+D:\Программки на вижуал\Homework1\Task11\bin\Debug\netcoreapp3.1\Task11.runtimeconfig.dev.json
+D:\Программки на вижуал\Homework1\Task11\bin\Debug\netcoreapp3.1\Task11.dll
+D:\Программки на вижуал\Homework1\Task11\bin\Debug\netcoreapp3.1\Task11.pdb
+D:\Программки на вижуал\Homework1\Task11\obj\Debug\netcoreapp3.1\Task11.csprojAssemblyReference.cache
+D:\Программки на вижуал\Homework1\Task11\obj\Debug\netcoreapp3.1\Task11.AssemblyInfoInputs.cache
+D:\Программки на вижуал\Homework1\Task11\obj\Debug\netcoreapp3.1\Task11.AssemblyInfo.cs
+D:\Программки на вижуал\Homework1\Task11\obj\Debug\netcoreapp3.1\Task11.csproj.CoreCompileInputs.cache
+D:\Программки на вижуал\Homework1\Task11\obj\Debug\netcoreapp3.1\Task11.dll
+D:\Программки на вижуал\Homework1\Task11\obj\Debug\netcoreapp3.1\Task11.pdb
+D:\Программки на вижуал\Homework1\Task11\obj\Debug\netcoreapp3.1\Task11.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Программки на вижуал\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.exe
+D:\Программки на вижуал\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.deps.json
+D:\Программки на вижуал\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.json
+D:\Программки на вижуал\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.dev.json
+D:\Программки на вижуал\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.dll
+D:\Программки на вижуал\Homework2\Homework2\bin\Debug\netcoreapp3.1\Homework2.pdb
+D:\Программки на вижуал\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.csprojAssemblyReference.cache
+D:\Программки на вижуал\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfoInputs.cache
+D:\Программки на вижуал\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfo.cs
+D:\Программки на вижуал\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.csproj.CoreCompileInputs.cache
+D:\Программки на вижуал\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.dll
+D:\Программки на вижуал\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.pdb
+D:\Программки на вижуал\Homework2\Homework2\obj\Debug\netcoreapp3.1\Homework2.genruntimeconfig.cache

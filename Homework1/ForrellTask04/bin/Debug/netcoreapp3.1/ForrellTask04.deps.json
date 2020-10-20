@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ForrellTask04/1.0.0": {
+        "runtime": {
+          "ForrellTask04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForrellTask04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\Программки на вижуал\Homework1\Task02\bin\Debug\netcoreapp3.1\Task02.exe
+D:\Программки на вижуал\Homework1\Task02\bin\Debug\netcoreapp3.1\Task02.deps.json
+D:\Программки на вижуал\Homework1\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.json
+D:\Программки на вижуал\Homework1\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.dev.json
+D:\Программки на вижуал\Homework1\Task02\bin\Debug\netcoreapp3.1\Task02.dll
+D:\Программки на вижуал\Homework1\Task02\bin\Debug\netcoreapp3.1\Task02.pdb
+D:\Программки на вижуал\Homework1\Task02\obj\Debug\netcoreapp3.1\Task02.csprojAssemblyReference.cache
+D:\Программки на вижуал\Homework1\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfoInputs.cache
+D:\Программки на вижуал\Homework1\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfo.cs
+D:\Программки на вижуал\Homework1\Task02\obj\Debug\netcoreapp3.1\Task02.csproj.CoreCompileInputs.cache
+D:\Программки на вижуал\Homework1\Task02\obj\Debug\netcoreapp3.1\Task02.dll
+D:\Программки на вижуал\Homework1\Task02\obj\Debug\netcoreapp3.1\Task02.pdb
+D:\Программки на вижуал\Homework1\Task02\obj\Debug\netcoreapp3.1\Task02.genruntimeconfig.cache
